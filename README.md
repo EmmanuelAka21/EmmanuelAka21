@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmmanuelAka21
+- 👋 Hi, I’m Emmanuel Aka
 - 👀 I’m interested in softwarre development
 - 🌱 I’m currently learning JavaScript on FreecodeCamp
 - 💞️ I’m looking to connect with other aspiring developers to collaborate on projects, share knowledge, and learn from each other's experiences. 
